@@ -1,12 +1,12 @@
 计划管理APP
 功能
-1. list![输入图片说明]![image](https://github.com/a1623194916/reminder-android/assets/43876825/bbe7258d-d92b-4d7f-a518-8e75b48b5506)
+1. list[image](https://github.com/a1623194916/reminder-android/assets/43876825/bbe7258d-d92b-4d7f-a518-8e75b48b5506)
 
-2. Pull-up query（数据保存在本地的sqlite数据库）![image](https://github.com/a1623194916/reminder-android/assets/43876825/77808964-9b09-4448-83c7-01bc356124ac)
+2. Pull-up query![image](https://github.com/a1623194916/reminder-android/assets/43876825/77808964-9b09-4448-83c7-01bc356124ac)
 
 3. order![image](https://github.com/a1623194916/reminder-android/assets/43876825/22a7e9b6-adb9-41a0-a7bb-5e5efc7241c5)
 
-4. edit（开始时间、结束时间、文字描述、图片、附件、重要程度、完成情况）![image](https://github.com/a1623194916/reminder-android/assets/43876825/b37edf8d-8a4f-49c9-b594-c63fd5a57a85)
+4. edit![image](https://github.com/a1623194916/reminder-android/assets/43876825/b37edf8d-8a4f-49c9-b594-c63fd5a57a85)
 
 5. lefe slide to delete![image](https://github.com/a1623194916/reminder-android/assets/43876825/8098aa7c-3529-4d69-8bdb-065cbd88145b)
 
